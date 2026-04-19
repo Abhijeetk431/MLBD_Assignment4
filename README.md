@@ -5,7 +5,7 @@ Clustering, Web-Search and PageRank using PySpark.
 ## Prerequisites
 
 - Python 3.11
-- Java 8 or 11 (required by Spark — download from https://adoptium.net if not installed)
+- Java 8 or 11 (required by Spark)
 - On Windows, set `JAVA_HOME` to your JDK path if Spark cannot find Java automatically
 
 ## Setup
